@@ -4,10 +4,9 @@
 Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
 
 ## Prime Factors
-In the Prime Factors kata, you write a routine that takes one argument – a positive, non-zero
-integer – and returns a list of the integer’s prime factors. If the integer has no prime factors, return
-an empty list. The data types of the argument and return value depend on the programming
-language you are using. 
+In the Prime Factors kata, you write a routine that takes one argument – a positive, non-zero integer – and returns a list of the integer’s prime factors.
+If the integer has no prime factors, return an empty list.
+The data types of the argument and return value depend on the programming language you are using. 
 
 ## Roman Numerals
 The Roman numerals kata attempts to create a conversion mechanism from integers to a Roman representation (a string):
