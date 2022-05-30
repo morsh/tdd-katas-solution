@@ -19,8 +19,8 @@ The Roman numerals kata attempts to create a conversion mechanism from integers 
 
 # Additional Katas & Resources
 
-[Wix TDD Katas](https://github.com/wix/tdd-katas)
-[FizzBuzz Walkthrough](https://learnitmyway.com/tdd-example/)
-[Prime Factors Kata Walkthrough](https://www.youtube.com/watch?v=qvi8iBSmH5A&ab_channel=DominikMarczuk)
-[Roman Numerals Kata Walkthrough](https://www.youtube.com/watch?v=hRIU7463Ifo&ab_channel=DominikMarczuk)
-[TDD Buddy](http://www.tddbuddy.com/)
+- [Wix TDD Katas](https://github.com/wix/tdd-katas)
+- [FizzBuzz Walkthrough](https://learnitmyway.com/tdd-example/)
+- [Prime Factors Kata Walkthrough](https://www.youtube.com/watch?v=qvi8iBSmH5A&ab_channel=DominikMarczuk)
+- [Roman Numerals Kata Walkthrough](https://www.youtube.com/watch?v=hRIU7463Ifo&ab_channel=DominikMarczuk)
+- [TDD Buddy](http://www.tddbuddy.com/)
